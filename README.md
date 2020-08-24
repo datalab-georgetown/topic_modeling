@@ -28,7 +28,7 @@ a list of words (i.e. `dataset = [[w1, w2, w3], [w4, w5, w6], ...]`).
 
 --- 
 
-###Installation
+### Installation
 
 This code relies on a short list of python packages, and comes with a 
 virtual environment with the packages pre-installed.  To use it, from the 
